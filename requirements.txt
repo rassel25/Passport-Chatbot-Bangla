@@ -65,3 +65,4 @@ watchdog==2.1.9
 yarg==0.1.9
 zipp==3.8.1
 torch<=1.13.0
+bltk<=1.2
